@@ -9,6 +9,7 @@ npm-debug.*
 *.mobileprovision
 *.orig.*
 web-build/
+/frontend/config/dialogflow.js
 
 # macOS
 .DS_Store
